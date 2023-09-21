@@ -1,4 +1,4 @@
-# [Your Name]'s Full Stack Developer Portfolio
+# Shaxzod's Full Stack Developer Portfolio
 
 Welcome to my GitHub portfolio! I'm a full-stack developer passionate about creating web applications and solving real-world problems. This repository serves as a showcase for my projects and skills.
 
