@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm a full-stack developer passionate about crea
 
 - **Name:** Shaxzod
 - **Location:** Tashkent/Uzbekistan
-- **LinkedIn:** https://www.linkedin.com/in/shaxzod-botirjonov-b7a763250/
+- **LinkedIn:** www.linkedin.com/in/shaxzodbr
 
 ## Skills
 
