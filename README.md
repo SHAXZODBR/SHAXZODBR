@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio! I'm a full-stack developer passionate about crea
 
 ## Skills
 
-- **Front-End Development:** HTML, CSS, SASS, SCASS, JavaScript, React.js
+- **Front-End Development:** HTML, CSS, SASS, SCASS, JavaScript, React.js, Next.js, Tailwind, Typescript
 - **Back-End Development:** Node.js, Express.js, Python
 - **Database:** SQL, MongoDB
 - **DevOps:** Docker, AWS, Heroku, Netify
