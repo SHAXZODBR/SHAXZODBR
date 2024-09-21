@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio! I'm a full-stack developer passionate about crea
   
 ## Projects
 
-### Project 1: Medical Website
+### Project 1: Yet to be added
 
 - **Description:** Brief description of the project.
 - **GitHub Repository:** [Link to the GitHub Repository]
@@ -27,14 +27,7 @@ Welcome to my GitHub portfolio! I'm a full-stack developer passionate about crea
 
 ![Project Screenshot](/screenshots/project1.png)
 
-### Project 2: [Project Name]
 
-- **Description:** Brief description of the project.
-- **GitHub Repository:** [Link to the GitHub Repository]
-- **Live Demo:** [Link to the Live Demo (if applicable)]
-- **Technologies Used:** List the technologies used in the project.
-
-![Project Screenshot](/screenshots/project2.png)
 
 ## Getting Started
 
