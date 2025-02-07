@@ -1,13 +1,15 @@
 ## Hi, I'm Batirjonov Shaxzod! 👋  
-### 💻 Full-Stack Developer | ⚽ Football Enthusiast | 📚 Educator   
+### 💻 Full-Stack Developer | 📚 Educator   
 
-I'm a passionate full-stack developer with experience in building web applications using modern technologies like **React, Next.js, Node.js, and PostgreSQL**. I also have a strong interest in **football, business, and education**, and I'm currently exploring ways to merge my technical skills with my love for football. 
+I'm a passionate full-stack developer with experience in building web applications using modern technologies like **React, Next.js, Node.js, and PostgreSQL**. I have a strong interest in **technology, business, and education**, and I'm constantly working on improving my skills and contributing to meaningful projects. 
 
 - 🔭 Currently working on a **Hotel Management System**
+- ⚡ Developing a **Rating App** for service reviews
+- 💖 Building a **Donation App** to support people in need
 - 🏫 Teaching front-end development for beginners
-- 🎯 Passionate about **football, business, and tech**
+- 🎯 Passionate about **software development and business**
 - 🌍 Planning to pursue a **Master’s degree in 2026**
-- 📍 Life goal: **Live in London**
+- 📍 Life goal: **Travel The World**
 
 ---
 
@@ -26,21 +28,19 @@ I'm a passionate full-stack developer with experience in building web applicatio
 
 ### 📌 Pinned Projects  
 🔹 [**Hotel Management System**](https://github.com/yourusername/hotel-management) - A system for managing hotel bookings, room services, and extra charges.  
-🔹 [**Football Data API**](https://github.com/yourusername/football-api) - A football statistics API for real-time match tracking.  
-🔹 [**University Notes Database**](https://github.com/yourusername/university-notes) - A community-driven platform for sharing university notes.  
+🔹 [**Rating App**](https://github.com/yourusername/rating-app) - A user-friendly platform for reviewing and rating services.  
+🔹 [**Donation App**](https://github.com/yourusername/donation-app) - A charitable platform to support those in need.  
 
 ---
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAXZODBR&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAXZODBR&layout=compact&theme=radical)  
 
 ---
 
 ### 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaxzodbr)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaxzodbotirjonov0@gmail.com)  
 
 ---
-
-_"Code is like football – strategy, teamwork, and execution matter."_ ⚽💻
