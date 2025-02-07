@@ -1,50 +1,46 @@
-# Shaxzod's Full Stack Developer Portfolio
+## Hi, I'm Batirjonov Shaxzod! 👋  
+### 💻 Full-Stack Developer | ⚽ Football Enthusiast | 📚 Educator   
 
-Welcome to my GitHub portfolio! I'm a full-stack developer passionate about creating web applications and solving real-world problems. This repository serves as a showcase for my projects and skills.
+I'm a passionate full-stack developer with experience in building web applications using modern technologies like **React, Next.js, Node.js, and PostgreSQL**. I also have a strong interest in **football, business, and education**, and I'm currently exploring ways to merge my technical skills with my love for football. 
 
-## About Me
+- 🔭 Currently working on a **Hotel Management System**
+- 🏫 Teaching front-end development for beginners
+- 🎯 Passionate about **football, business, and tech**
+- 🌍 Planning to pursue a **Master’s degree in 2026**
+- 📍 Life goal: **Live in London**
 
-- **Name:** Shaxzod
-- **Location:** Tashkent/Uzbekistan
-- **LinkedIn:** www.linkedin.com/in/shaxzodbr
+---
 
-## Skills
+### 🛠 Tech Stack  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 
-- **Front-End Development:** HTML, CSS, SASS, SCASS, JavaScript, React.js, Next.js, Tailwind, Typescript
-- **Back-End Development:** Node.js, Express.js, Python
-- **Database:** SQL, MongoDB
-- **DevOps:** AWS, Heroku, Netlify, Vercel
-- **Version Control:** Git, GitHub
-  
-## Projects
+---
 
-### Project 1: Yet to be added
+### 📌 Pinned Projects  
+🔹 [**Hotel Management System**](https://github.com/yourusername/hotel-management) - A system for managing hotel bookings, room services, and extra charges.  
+🔹 [**Football Data API**](https://github.com/yourusername/football-api) - A football statistics API for real-time match tracking.  
+🔹 [**University Notes Database**](https://github.com/yourusername/university-notes) - A community-driven platform for sharing university notes.  
 
-- **Description:** Brief description of the project.
-- **GitHub Repository:** [Link to the GitHub Repository]
-- **Live Demo:** [Link to the Live Demo (if applicable)]
-- **Technologies Used:** List the technologies used in the project.
+---
 
-![Project Screenshot](/screenshots/project1.png)
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
+---
 
+### 📬 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
-## Getting Started
+---
 
-If you'd like to explore my projects or contribute, follow these steps:
-
-1. Clone the repository: `git clone [repository URL]`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-
-## Contact
-
-Feel free to reach out to me if you have any questions or collaboration ideas:
-
-- Email: botironovshaxzod0@gmail.com
-- LinkedIn: https://www.linkedin.com/in/shaxzod-botirjonov-b7a763250/
-- Twitter: https://twitter.com/shaxzod_br/
-
-## License
-
-This project is open-source and available under the [License Name] license. See the [LICENSE](/LICENSE) file for more details.
+_"Code is like football – strategy, teamwork, and execution matter."_ ⚽💻
